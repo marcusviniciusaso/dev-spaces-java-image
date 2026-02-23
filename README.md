@@ -24,11 +24,3 @@ podman login quay.io
 
 podman-compose -f image/compose.yaml --env-file image/.env push
 ```
-
-## Configure Repository
-
-Apply to user workspace namespace
-
-```
-oc apply -f public-maven-central-secret.yaml
-```
