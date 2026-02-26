@@ -1,4 +1,4 @@
-# custom-udi-java25
+# custom-udi-java21
 
 ## Build image
 
