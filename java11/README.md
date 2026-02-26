@@ -1,4 +1,4 @@
-# dev-spaces-java-image
+# custom-udi-java11
 
 ## Build image
 
